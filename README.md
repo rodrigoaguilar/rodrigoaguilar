@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Aguilar</h1>
-<h3 align="center">Full Stack Software Developer from Chile</h3>
+<h3 align="center">Lead Software Engineer at IKEA · Madrid, Spain</h3>
 
 <p align="center">
-  <a href="https://www.numikapp.com">Numik</a> · iOS · Flutter · Mobile Development · AI · Machine Learning
+  Crafting digital products and experiences to create a better everyday life for the many.
 </p>
 
-- 🔭 I’m currently working on [Numik](https://www.numikapp.com)
-- 🌱 I’m currently learning **AI** and **Machine Learning**
-- 💬 Ask me about **iOS**, **Flutter**, and **Mobile Development**
-- 📫 How to reach me: **rodrigo@numikapp.com**
+- 🏗️ Currently leading technical strategy for **New Business Platform** at IKEA
+- 🧰 Working across **mobile** (Flutter, Swift, Kotlin), **web** (React), and **cloud** (GCP, Firebase, BigQuery)
+- 🌱 Long-time interest in **AI / ML** and applied computer vision
+- 🎓 MBA, Thunderbird School of Global Management
+- 📫 Reach me at **rodrigo@rodrigoaguilar.com**
 
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,dart,django,docker,express,firebase,flutter,gcp,git,js,linux,mongodb,mysql,nodejs,opencv,py,react,redux,swift&perline=10" alt="Android Studio, Apple, Bash, Dart, Django, Docker, Express, Firebase, Flutter, Google Cloud, Git, JavaScript, Linux, MongoDB, MySQL, Node.js, OpenCV, Python, React, Redux, and Swift" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,dart,django,docker,express,firebase,flutter,gcp,git,js,kotlin,linux,nodejs,opencv,py,react,redux,swift,ts&perline=11" alt="Android Studio, Apple, Bash, Dart, Django, Docker, Express, Firebase, Flutter, Google Cloud, Git, JavaScript, Kotlin, Linux, Node.js, OpenCV, Python, React, Redux, Swift, and TypeScript" />
 </p>
 
 <p align="center">
